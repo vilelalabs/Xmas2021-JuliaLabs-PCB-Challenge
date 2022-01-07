@@ -10,9 +10,20 @@ As sequências (não necessarimanete nesta ordem) são:
 - Fazendo uma volta completa  piscando no sentido horário e anti-horário
 - Piscando todos os Leds acesos e apagados entre estas sequências.
 
+### Hardware
+O Hardware foi desenvolvido usando o software Eagle, incluindo aqui:
+- O esquemático
+- A placa de circuito impresso
+- O arquivo gerber para fabricação. 
+Já a simulação do funcionamento do circuito foi realizada utilizando o software Proteus.
+
+**_Todos os arquivos referentes ao desenvolvimento do Hardware se encontram na pasta [HARDWARE](https://github.com/vilelalabs/Xmas2021-JuliaLabs-PCB-Challenge/tree/master/HARDWARE)_**
+
 ### Software / Firmware
-- O software foi desenvolvido em C++ usando PlatformIO para VSCode IDE. Nele temos macros (#define) para cada led individualmente e para grupos dos leds (por cor, ou considerandos todos os leds simultaneamente). O código principal pode ser encontrado na pasta [SRC](https://github.com/vilelalabs/Xmas2021-JuliaLabs-PCB-Challenge/tree/master/src).
+- O software foi desenvolvido em C++ usando PlatformIO para VSCode IDE. Nele temos macros (#define) para cada led individualmente e para grupos dos leds (por cor, ou considerandos todos os leds simultaneamente). O código principal pode ser encontrado na pasta [SRC](https://github.com/vilelalabs/Xmas2021-JuliaLabs-PCB-Challenge/tree/master/SOFTWARE/src).
 Foram usados encapsulamentos SOIC e componentes SMD de solda manual fácil para uma experiência fácil também na montagem.
+
+**_Todos arquivos referentes ao desenvolvimento do software no PlatformIO estão na pasta [SOFTWARE](https://github.com/vilelalabs/Xmas2021-JuliaLabs-PCB-Challenge/tree/master/SOFTWARE)_**
 
 ### Observações
 - Os LEDs devem ser colocados lateralmente (virados para as mesmas direções) ou, se possível, com uma orientação para o lado interno da placa (que poderia ser possível com um "ajuste" na hora da soldagem) aproveitando melhor as partes translúcidas da placa.
