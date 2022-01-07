@@ -11,11 +11,12 @@ As sequências (não necessarimanete nesta ordem) são:
 - Piscando todos os Leds acesos e apagados entre estas sequências.
 
 ### Hardware
-O Hardware foi desenvolvido usando o software Eagle, incluindo aqui:
+O Hardware foi desenvolvido usando o software [Eagle](https://github.com/vilelalabs/Xmas2021-JuliaLabs-PCB-Challenge/tree/master/HARDWARE/eagle), incluindo aqui:
 - O esquemático
 - A placa de circuito impresso
 - O arquivo gerber para fabricação. 
-Já a simulação do funcionamento do circuito foi realizada utilizando o software Proteus.
+
+Já a simulação do funcionamento do circuito foi realizada utilizando o software [Proteus](https://github.com/vilelalabs/Xmas2021-JuliaLabs-PCB-Challenge/tree/master/HARDWARE/proteus).
 
 **_Todos os arquivos referentes ao desenvolvimento do Hardware se encontram na pasta [HARDWARE](https://github.com/vilelalabs/Xmas2021-JuliaLabs-PCB-Challenge/tree/master/HARDWARE)_**
 
