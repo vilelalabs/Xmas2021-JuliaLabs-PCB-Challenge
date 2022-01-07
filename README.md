@@ -21,12 +21,14 @@ Já a simulação do funcionamento do circuito foi realizada utilizando o softwa
 **_Todos os arquivos referentes ao desenvolvimento do Hardware se encontram na pasta [HARDWARE](https://github.com/vilelalabs/Xmas2021-JuliaLabs-PCB-Challenge/tree/master/HARDWARE)_**
 
 ### Software / Firmware
-- O software foi desenvolvido em C++ usando PlatformIO para VSCode IDE. Nele temos macros (#define) para cada led individualmente e para grupos dos leds (por cor, ou considerandos todos os leds simultaneamente). O código principal pode ser encontrado na pasta [SRC](https://github.com/vilelalabs/Xmas2021-JuliaLabs-PCB-Challenge/tree/master/SOFTWARE/src).
-Foram usados encapsulamentos SOIC e componentes SMD de solda manual fácil para uma experiência fácil também na montagem.
+- O software foi desenvolvido em C++ usando a extensão PlatformIO para a IDE VSCode. Nele temos macros (#define) para cada led individualmente e para grupos dos leds (por cor, ou considerandos todos os leds simultaneamente). O código principal pode ser encontrado na pasta [SRC](https://github.com/vilelalabs/Xmas2021-JuliaLabs-PCB-Challenge/tree/master/SOFTWARE/src).
+- O código no arquivo **_main.cpp_** também pode ser utilizado normalmente na Arduino IDE, desde que realizadas as devidas configurações para a correta programação do Attiny85 na mesma.
+
 
 **_Todos arquivos referentes ao desenvolvimento do software no PlatformIO estão na pasta [SOFTWARE](https://github.com/vilelalabs/Xmas2021-JuliaLabs-PCB-Challenge/tree/master/SOFTWARE)_**
 
 ### Observações
+- Foram usados encapsulamentos SOIC e componentes SMD de solda manual fácil para uma experiência fácil também na montagem.
 - Os LEDs devem ser colocados lateralmente (virados para as mesmas direções) ou, se possível, com uma orientação para o lado interno da placa (que poderia ser possível com um "ajuste" na hora da soldagem) aproveitando melhor as partes translúcidas da placa.
 - Todo o processo foi transmitido em stream na [Twitch](https://twitch.tv/vilelalabs) e parte desse desenvolvimento será destacado no [Youtube](https://youtube.com/vilelalabs) futuramente.
 
