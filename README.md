@@ -42,7 +42,7 @@ Já a simulação do funcionamento do circuito foi realizada utilizando o softwa
 ### Lista de Componentes
 |Componente|Quantidade|Observação| Datasheet|
 |:----------:|:----------:|:----------:|:----------:|
-| [ATTINY85V-10SUR](https://br.mouser.com/ProductDetail/556-ATTINY85V-10SUR)  | 1  | Microcontrolador  | [Datasheet](https://br.mouser.com/datasheet/2/268/Atmel-2586-AVR-8-bit-Microcontroller-ATtiny25-ATti-1315542.pdf)|
+| [ATTINY85V-10SNR](https://br.mouser.com/ProductDetail/556-ATTINY25V-10SNR)  | 1  | Microcontrolador  | [Datasheet](https://br.mouser.com/datasheet/2/268/Atmel-2586-AVR-8-bit-Microcontroller-ATtiny25-ATti-1315542.pdf)|
 | [SN74HC595D](https://br.mouser.com/ProductDetail/595-SN74HC595DRE4)  | 1  | Registrador de deslocamento de 8 bits  | [Datasheet](https://www.ti.com/lit/ds/symlink/sn74hc595.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1641509615811&ref_url=https%253A%252F%252Fwww.mouser.be%252F)|
 | [Clip de Bateria CR1220](https://br.mouser.com/ProductDetail/534-3000TR)  | 1  | Modelo Keystone 3000TR | [Datasheet](https://br.mouser.com/datasheet/2/215/3000TR-742873.pdf)|
 | [Resistor 150Ω](https://br.mouser.com/ProductDetail/71-TNPW0805150RFEEA)  | 8  | Observacao  | [Datasheet](https://br.mouser.com/datasheet/2/427/tnpw_e3-1761965.pdf)|
@@ -50,5 +50,5 @@ Já a simulação do funcionamento do circuito foi realizada utilizando o softwa
 | [LED Azul](https://br.mouser.com/ProductDetail/859-LTST-S220TBKT)  | 4  | montagem lateral / SMD  |[Datasheet](https://br.mouser.com/datasheet/2/239/Lite-On-LTST-S220TBKT-1175488.pdf)|
 
 ### Links
-- [Carrinho de compras na Mouser](https://br.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=4d0b96b75f)
+- [Carrinho de compras na Mouser](https://br.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=1f4f7a85bd)
 - [Projeto na PCBWay](https://www.pcbway.com/project/shareproject/Blinking_Christmas_Star_e158be5a.html)
