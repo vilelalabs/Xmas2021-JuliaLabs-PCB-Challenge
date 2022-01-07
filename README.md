@@ -2,7 +2,7 @@
 
 ## Descrição Geral
 Esta placa foi desenvolvida para o concurso "Julialabs PCB Challenge" de 2021 com um tema natalino.
-A idéia geral fi fazer um enfeite de para a árvore de natal (a estrela que normalmente é colocada no topo da árvore) que funcione de maneira automática (ao inserir a bateria) fazendo sequências "pisca-pisca" nas pontas principais da mesma.
+A idéia geral foi fazer um enfeite de para a árvore de natal (a estrela que normalmente é colocada no topo da árvore) que funcione de maneira automática (ao inserir a bateria) fazendo sequências "pisca-pisca" nas pontas principais da mesma (inclusive há buracos na parte interior da placa para se passar uma fita ou linha para afixar a placa na árvore de natal!)
 ### Funcionamento
 Para funcionar ela só precisará de uma bateria 3V tipo CR1220 (facilmente encontrada - a famosa "bateria de relógio") para iniciar automaticamente a apresentação de uma sequências de acendimento de LEDs predefinidos (por software) que destacam os oito cantos principais da estrela.
 As sequências (não necessarimanete nesta ordem) são:
