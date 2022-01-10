@@ -31,6 +31,7 @@ Já a simulação do funcionamento do circuito foi realizada utilizando o softwa
 - Foram usados encapsulamentos SOIC e componentes SMD de solda manual fácil para uma experiência fácil também na montagem.
 - Os LEDs devem ser colocados lateralmente (virados para as mesmas direções) ou, se possível, com uma orientação para o lado interno da placa (que poderia ser possível com um "ajuste" na hora da soldagem) aproveitando melhor as partes translúcidas da placa.
 - Todo o processo foi transmitido em stream na [Twitch](https://twitch.tv/vilelalabs) e parte desse desenvolvimento será destacado no [Youtube](https://youtube.com/vilelalabs) futuramente.
+- Toda parte "verde" da placa deveria ser "azul" **a ser escolhido no momento da fabricação**. Infelizmente nao consegui fazer este setup no Eagle ou nas visualizações do projeto.
 
 ### Imagens
 |Placa|Esquemático|
